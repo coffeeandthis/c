@@ -5,7 +5,7 @@ title = "Your Amazing Post!"
 description = "A Cool Post"
 slug = "coolpost"
 authors = ["Humanity"]
-tags = ["humanity"]
+tags = ["humanity", "learning"]
 categories = ["humanity"]
 externalLink = ""
 series = ["humanity"]
@@ -16,6 +16,10 @@ series = ["humanity"]
 The static site generator used to build pages from this repository is called Hugo. Like many generators, it uses Markdown for content posts. 
 
 **Your awesome content can go here!**
+
+# This is a header 
+
+This is an ordinary line of text. 
 
 
 
