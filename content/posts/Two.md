@@ -1,6 +1,6 @@
 +++
-Title = "A cool post"
-Date = "2021-04-28"
+title = "A cool post"
+date = "2021-04-28"
 
 +++
 
